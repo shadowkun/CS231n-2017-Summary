@@ -1,5 +1,7 @@
 # Standford CS231n 2017 Summary
 
+Video: http://study.163.com/course/courseMain.htm?courseId=1003223001
+
 After watching all the videos of the famous Standford's [CS231n](http://cs231n.stanford.edu/) course that took place in 2017, i decided to take summary of the whole course to help me to remember and to anyone who would like to know about it. I've skipped some contents in some lectures as it wasn't important to me.
 
 ## Table of contents
